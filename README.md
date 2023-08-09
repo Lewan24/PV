@@ -1,5 +1,3 @@
-Private repositories that could be used via contact
-
 There is the list of repositories that i have checked as private coz of data like logins and passwords in configs.
 I can share them after deleting vulnerable data. These projects are the most advanced and complex with implemented
 some features like advanced security system, authorization etc.
